@@ -6,11 +6,11 @@ Application has 3 windows:
 ![image](https://user-images.githubusercontent.com/49407172/152806855-0131957b-7a4c-4343-a717-a7c1959c984c.png)
 
 2) Second  window show all readed books on buble graph where is :
-  1. Axis X - first publish year of book
-  2. Axis Y - number of editions
-  3. Color - category of book
-  4. Size - number of pages
-  5. Shape - availability of public scan
+  - Axis X - first publish year of book
+  - Axis Y - number of editions
+  - Color - category of book
+  - Size - number of pages
+  - Shape - availability of public scan
  
   To impement this functionality I use https://lvcharts.net/
   
